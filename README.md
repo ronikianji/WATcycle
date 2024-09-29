@@ -6,7 +6,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Folder Structure
-
+```mermaid
+graph TD
+    subgraph First_Look
+        A[Download Data] --> B[Display Data]
+        B --> B1[NC File]
+        B1 --> B1A[Summary]
+        B1 --> B1B[DataFrame Creation]
+    end
+```
 ```mermaid
 graph TD
     subgraph Data_Preproccesing
@@ -16,15 +24,6 @@ graph TD
         C --> C4[Merge or Split NC Files]
         C --> C5[Resolution Change]
         C --> C6[Saving NC Files]
-    end
-```
-```mermaid
-graph TD
-    subgraph First_Look
-        A[Download Data] --> B[Display Data]
-        B --> B1[NC File]
-        B1 --> B1A[Summary]
-        B1 --> B1B[DataFrame Creation]
     end
 ```
 ```mermaid
