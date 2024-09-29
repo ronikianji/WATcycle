@@ -7,17 +7,18 @@
 
 # Folder Structure
 ```mermaid
+# Project Workflow
 graph TD
     %% Main process branches with spacing in reverse order
 
-    subgraph Time_Series_Analysis
+    subgraph Time_Series_Plotting
         K[Time Series Plotting] --> K1[Trend Analysis]
         K --> K2[Seasonal Analysis]
         K --> K3[Residual Analysis]
         K --> K4[Data Validation]
     end
 
-    subgraph Spatial_Analysis
+    subgraph Spatial_Plotting
         J[Spatial Plotting] --> J1[World]
         J --> J2[Shapefile]
     end
@@ -38,9 +39,4 @@ graph TD
         B1 --> B1B[DataFrame Creation]
     end
 ```
-    %% Add styling to differentiate sections
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style J fill:#bfb,stroke:#333,stroke-width:2px
-    style K fill:#bfb,stroke:#333,stroke-width:2px
+
