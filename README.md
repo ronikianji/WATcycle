@@ -21,7 +21,8 @@ graph TD
         J[Spatial Plotting] --> J1[World]
         J --> J2[Shapefile]
     end
-
+```
+```mermaid
     subgraph Data_Preproccesing
         C[Data Transformation and Management] --> C1[Clipping Shapefile Data]
         C --> C2[Finding Missing Time Steps]
