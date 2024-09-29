@@ -21,6 +21,8 @@ pip install jupyterlab
 Clone this repository and install the required dependencies:
 ```bash
 git clone (https://github.com/ronikianji/PyPackage.git)
+```
+```bash
 pip install -r requirements.txt
 ```
 
