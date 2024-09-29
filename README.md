@@ -12,20 +12,29 @@ This repository contains Jupyter Notebooks organized into folders and subfolders
 - [Installation](#installation)
 
 ## Installation
-1.To run the code on your local machine, install JupyterLab by running:
+1. To run the code on your local machine, install JupyterLab by running:
 ```bash
 pip install jupyterlab
 ```
-2.Clone this repository: 
+2. Clone this repository: 
 ```bash
 git clone (https://github.com/ronikianji/PyPackage.git)
 ```
-3.Install the required dependencies:
+3. Creating virtual environment
 ```bash
+pip install virtualenv
+python -m venv myenv
+myenv\Scripts\activate  # On Windows
+# source myenv/bin/activate  # On macOS/Linux
 pip install -r requirements.txt
+pip install ipykernel
+python -m ipykernel install --user --name=myenv --display-name "PyPackage"```
 ```
 
-# Folder Structure
+## Features
+
+
+## Folder Structure
 ```mermaid
 graph TD
     subgraph First_Look
@@ -68,7 +77,6 @@ This toolbox is designed to support hydrological analysis. Contributions are wel
 Your feedback and involvement are highly appreciated, and we thank all those who have contributed or plan to contribute in the future.
 
 ## License
-
 This project is licensed under the MIT License. You can use, modify, and distribute it as long as you include the original license in your copies. 
 Use this DOI for citation: [DOI: [your DOI here]](https://doi.org/[your DOI here]).
 
