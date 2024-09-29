@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Folder Structure
+```mermaid
 graph TD
     %% Main process branches with spacing in reverse order
 
@@ -36,7 +37,7 @@ graph TD
         B1 --> B1A[Summary]
         B1 --> B1B[DataFrame Creation]
     end
-
+```
     %% Add styling to differentiate sections
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:2px
