@@ -41,7 +41,6 @@ graph TD
         B --> B1[NC File]
         B1 --> B1A[Summary]
         B1 --> B1B[DataFrame Creation]
-    end
 ```
 ```mermaid
 graph TD
@@ -51,13 +50,11 @@ graph TD
         C --> C4[Merge or Split NC Files]
         C --> C5[Resolution Change]
         C --> C6[Saving NC Files]
-    end
 ```
 ```mermaid
 graph TD
                 J[Spatial Plotting] --> J1[World]
                 J --> J2[Shapefile]
-            end
 ```
 ```mermaid
 graph TD
@@ -65,7 +62,6 @@ graph TD
         K --> K2[Seasonal Analysis]
         K --> K3[Residual Analysis]
         K --> K4[Data Validation]
-    end
 ```
 
 ## Contributors
