@@ -13,15 +13,14 @@ This repository contains Jupyter Notebooks organized into folders and subfolders
 
 ## Installation
 To run the code on your local machine, install JupyterLab by running:
-
 ```bash
 pip install jupyterlab
 ```
-
-Clone this repository and install the required dependencies:
+Clone this repository: 
 ```bash
 git clone (https://github.com/ronikianji/PyPackage.git)
 ```
+Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
