@@ -11,7 +11,7 @@ their hydrological research and related activities.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Folder Structure](#folder_structure)
+- [Folder Structure](#folder-structure)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -78,6 +78,4 @@ Your feedback and involvement are highly appreciated, and we thank all those who
 
 ## License
 This project is licensed under the MIT License. You can use, modify, and distribute it as long as you include the original license in your copies. 
-Use this DOI for citation: [DOI: [your DOI here]](https://doi.org/[your DOI here]).
-
-
+Use this DOI for citation: [DOI: [your DOI here]]
