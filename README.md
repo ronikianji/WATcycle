@@ -11,7 +11,7 @@ their hydrological research and related activities.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Folder Structure](#flowchart)
+- [Folder Structure](#folder_structure)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -28,8 +28,7 @@ git clone (https://github.com/ronikianji/PyPackage.git)
 ```bash
 pip install virtualenv
 python -m venv myenv
-myenv\Scripts\activate  # On Windows
-# source myenv/bin/activate  # On macOS/Linux
+myenv\Scripts\activate 
 pip install -r requirements.txt
 pip install ipykernel
 python -m ipykernel install --user --name=myenv --display-name "PyPackage"```
