@@ -18,6 +18,11 @@ To run the code on your local machine, install JupyterLab by running:
 pip install jupyterlab
 ```
 
+Clone this repository and install the required dependencies:
+```bash
+git clone (https://github.com/ronikianji/PyPackage.git)
+pip install -r requirements.txt
+```
 
 # Folder Structure
 ```mermaid
