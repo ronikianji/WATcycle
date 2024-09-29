@@ -17,7 +17,8 @@ graph TD
         C --> C5[Resolution Change]
         C --> C6[Saving NC Files]
     end
-
+```
+```mermaid
 graph TD
     subgraph First_Look
         A[Download Data] --> B[Display Data]
@@ -25,12 +26,15 @@ graph TD
         B1 --> B1A[Summary]
         B1 --> B1B[DataFrame Creation]
     end
-
+```
+```mermaid
 graph TD
         subgraph Spatial_Plotting
                 J[Spatial Plotting] --> J1[World]
                 J --> J2[Shapefile]
             end
+```
+```mermaid
 graph TD
         subgraph Time_Series_Plotting
         K[Time Series Plotting] --> K1[Trend Analysis]
