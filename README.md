@@ -62,5 +62,14 @@ graph TD
         K --> K4[Data Validation]
     end
 ```
-    
-```
+
+## Contributors
+This toolbox is designed to support hydrological analysis. Contributions are welcome to improve the toolbox, add new features, or enhance its functionality for the hydrological community. 
+Your feedback and involvement are highly appreciated, and we thank all those who have contributed or plan to contribute in the future.
+
+## License
+
+This project is licensed under the MIT License. You can use, modify, and distribute it as long as you include the original license in your copies. 
+Use this DOI for citation: [DOI: [your DOI here]](https://doi.org/[your DOI here]).
+
+
