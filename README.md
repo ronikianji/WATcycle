@@ -5,6 +5,20 @@
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/PyPackage)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
+This repository contains Jupyter Notebooks organized into folders and subfolders for modular hydrological tasks.
+
+## Table of Contents
+- [Installation](#installation)
+
+## Installation
+To run the code on your local machine, install JupyterLab by running:
+
+```bash
+pip install jupyterlab
+```
+
+
 # Folder Structure
 ```mermaid
 graph TD
