@@ -31,7 +31,7 @@ python -m venv myenv
 myenv\Scripts\activate 
 pip install -r requirements.txt
 pip install ipykernel
-python -m ipykernel install --user --name=myenv --display-name "PyPackage"```
+python -m ipykernel install --user --name=myenv --display-name "PyPackage"
 ```
 
 ## Folder Structure
