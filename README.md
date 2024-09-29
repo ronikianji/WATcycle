@@ -6,20 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Folder Structure
-```mermaid
-graph TD
-        subgraph Time_Series_Plotting
-        K[Time Series Plotting] --> K1[Trend Analysis]
-        K --> K2[Seasonal Analysis]
-        K --> K3[Residual Analysis]
-        K --> K4[Data Validation]
-    end
 
-    subgraph Spatial_Plotting
-        J[Spatial Plotting] --> J1[World]
-        J --> J2[Shapefile]
-    end
-```
 ```mermaid
 graph TD
     subgraph Data_Preproccesing
@@ -39,3 +26,18 @@ graph TD
     end
 ```
 
+```mermaid
+graph TD
+        subgraph Spatial_Plotting
+                J[Spatial Plotting] --> J1[World]
+                J --> J2[Shapefile]
+            end
+        subgraph Time_Series_Plotting
+        K[Time Series Plotting] --> K1[Trend Analysis]
+        K --> K2[Seasonal Analysis]
+        K --> K3[Residual Analysis]
+        K --> K4[Data Validation]
+    end
+
+    
+```
