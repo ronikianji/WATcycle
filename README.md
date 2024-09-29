@@ -6,10 +6,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
-This repository contains Jupyter Notebooks organized into folders and subfolders for modular hydrological tasks.
+This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such resource is intended to enable users in conducting
+their hydrological research and related activities.
 
 ## Table of Contents
 - [Installation](#installation)
+- [Folder Structure](#flowchart)
+- [Contributors](#contributors)
+- [License](#license)
 
 ## Installation
 1. To run the code on your local machine, install JupyterLab by running:
@@ -30,9 +34,6 @@ pip install -r requirements.txt
 pip install ipykernel
 python -m ipykernel install --user --name=myenv --display-name "PyPackage"```
 ```
-
-## Features
-
 
 ## Folder Structure
 ```mermaid
