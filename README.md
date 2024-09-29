@@ -8,9 +8,7 @@
 # Folder Structure
 ```mermaid
 graph TD
-    %% Main process branches with spacing in reverse order
-
-    subgraph Time_Series_Plotting
+        subgraph Time_Series_Plotting
         K[Time Series Plotting] --> K1[Trend Analysis]
         K --> K2[Seasonal Analysis]
         K --> K3[Residual Analysis]
@@ -23,6 +21,7 @@ graph TD
     end
 ```
 ```mermaid
+graph TD
     subgraph Data_Preproccesing
         C[Data Transformation and Management] --> C1[Clipping Shapefile Data]
         C --> C2[Finding Missing Time Steps]
