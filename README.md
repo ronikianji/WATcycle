@@ -18,26 +18,26 @@ graph TD
         C --> C6[Saving NC Files]
     end
 
+graph TD
     subgraph First_Look
         A[Download Data] --> B[Display Data]
         B --> B1[NC File]
         B1 --> B1A[Summary]
         B1 --> B1B[DataFrame Creation]
     end
-```
 
-```mermaid
 graph TD
         subgraph Spatial_Plotting
                 J[Spatial Plotting] --> J1[World]
                 J --> J2[Shapefile]
             end
+graph TD
         subgraph Time_Series_Plotting
         K[Time Series Plotting] --> K1[Trend Analysis]
         K --> K2[Seasonal Analysis]
         K --> K3[Residual Analysis]
         K --> K4[Data Validation]
     end
-
+```
     
 ```
