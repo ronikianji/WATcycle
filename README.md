@@ -7,7 +7,6 @@
 
 # Folder Structure
 ```mermaid
-# Project Workflow
 graph TD
     %% Main process branches with spacing in reverse order
 
