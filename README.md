@@ -2,7 +2,7 @@
 # WATcycle
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/PyPackage)
+[![Open in Google Colab]([![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/WATcycle)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ronikianji/WATcycle/blob/1338c4fb71dde76a90d6fe632918d0dcc35b1b5c/LICENSE)
 
 A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
@@ -22,7 +22,7 @@ pip install jupyterlab
 ```
 2. Clone this repository: 
 ```bash
-git clone (https://github.com/ronikianji/PyPackage.git)
+git clone (https://github.com/ronikianji/WATcycle.git)
 ```
 3. Creating virtual environment
 ```bash
