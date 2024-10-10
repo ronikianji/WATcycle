@@ -1,5 +1,5 @@
 ![Image: Python Logo](https://github.com/ronikianji/PyPackage/blob/c745cb4b9fb98c379b26b862a533c16676b7ed50/assets/Presentation1.jpg)
-# PyPackage
+# WATcycle
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/PyPackage)
@@ -31,7 +31,7 @@ python -m venv myenv
 myenv\Scripts\activate 
 pip install -r requirements.txt
 pip install ipykernel
-python -m ipykernel install --user --name=myenv --display-name "PyPackage"
+python -m ipykernel install --user --name=myenv --display-name "WATcycle"
 ```
 
 ## Folder Structure
@@ -70,4 +70,4 @@ Your feedback and involvement are highly appreciated, and we thank all those who
 
 ## License
 This project is licensed under the MIT License. You can use, modify, and distribute it as long as you include the original license in your copies. 
-Use this DOI for citation: [DOI: [your DOI here]]
+Use this DOI for citation: [DOI: [DOI here]]
