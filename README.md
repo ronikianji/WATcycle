@@ -1,4 +1,4 @@
-![Image: Python Logo](https://github.com/ronikianji/PyPackage/blob/c745cb4b9fb98c379b26b862a533c16676b7ed50/assets/Presentation1.jpg)
+![Image: Python Logo](https://github.com/ronikianji/WATcycle/blob/5d731b06376360baad7d824a21a7ce91fd338602/assets/Cover%20Image.jpg)
 # WATcycle
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
