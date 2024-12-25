@@ -1,3 +1,4 @@
+--extra-index-url https://pypi.org/simple
 sphinx==5.0.0
 sphinx_rtd_theme==1.0.0
 rst2pdf==0.97
