@@ -6,8 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ronikianji/WATcycle/blob/1338c4fb71dde76a90d6fe632918d0dcc35b1b5c/LICENSE)
 
 A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
-This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such resource is intended to enable users in conducting
-their hydrological research and related activities.
+This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such a resource is intended to enable users in conducting their hydrological research and extend it to their relevant activities.
 
 ## Table of Contents
 - [Installation](#installation)
