@@ -46,7 +46,7 @@ graph TD
 ## Installation
 ```bash
 # Navigate to the main_app folder
-main_app
+main_app --> main.py
 
 # Install the required dependencies
 pip install -r requirements.txt
