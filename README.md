@@ -45,13 +45,17 @@ graph TD
 ```
 ## Installation
 ```bash
-# Navigate to the main_app folder
+# Install Requirements
+
+# Step 1: Navigate to the main_app folder
 main_app --> main.py
 
-# Install the required dependencies
+# Step 2: Open the terminal in the main_app folder and run the below command
 pip install -r requirements.txt
 
-# Run the WATcycle application
+# Run the WATcycle
+
+# Step 3: After successful installation of requirements, run the below command
 streamlit run main.py
 ```
 ## Contributors
