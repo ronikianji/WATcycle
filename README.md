@@ -9,29 +9,10 @@ A comprehensive toolbox for performing advanced hydrological analysis, including
 This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such a resource is intended to enable users in conducting their hydrological research and extend it to their relevant activities.
 
 ## Table of Contents
-- [Installation](#installation)
 - [Folder Structure](#folder-structure)
+- [Installation](#installation)
 - [Contributors](#contributors)
 - [License](#license)
-
-## Installation
-1. To run the code on your local machine, install JupyterLab by running:
-```bash
-pip install jupyterlab
-```
-2. Clone this repository: 
-```bash
-git clone (https://github.com/ronikianji/WATcycle.git)
-```
-3. Creating virtual environment
-```bash
-pip install virtualenv
-python -m venv myenv
-myenv\Scripts\activate 
-pip install -r requirements.txt
-pip install ipykernel
-python -m ipykernel install --user --name=myenv --display-name "WATcycle"
-```
 
 ## Folder Structure
 ```mermaid
@@ -62,7 +43,17 @@ graph TD
         K --> K3[Residual Analysis]
         K --> K4[Data Validation]
 ```
+## Installation
+```bash
+# Navigate to the main_app folder
+main_app
 
+# Install the required dependencies
+pip install -r requirements.txt
+
+# Run the WATcycle application
+streamlit run main.py
+```
 ## Contributors
 This toolbox is designed to support hydrological analysis. Contributions are welcome to improve the toolbox, add new features, or enhance its functionality for the hydrological community. 
 Your feedback and involvement are highly appreciated, and we thank all those who have contributed or plan to contribute in the future.
