@@ -8,6 +8,15 @@
 A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
 This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such a resource is intended to enable users in conducting their hydrological research and extend it to their relevant activities.
 
+[![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/WATcycle)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ronikianji/WATcycle/blob/1338c4fb71dde76a90d6fe632918d0dcc35b1b5c/LICENSE)
+[![GitBook Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-3884FF)](https://watcycle.gitbook.io/watcycle)
+
+## 📚 Documentation
+For complete user guides, API reference, and tutorials, visit our GitBook documentation:
+
+🔗 [https://watcycle.gitbook.io/watcycle](https://watcycle.gitbook.io/watcycle)
 ## Table of Contents
 - [Installation](#installation)
 - [Contributors](#contributors)
