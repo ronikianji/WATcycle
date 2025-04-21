@@ -10,7 +10,7 @@ A comprehensive toolbox for performing advanced hydrological analysis, including
 This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such a resource is intended to enable users in conducting their hydrological research and extend it to their relevant activities.
 
 ## 📚 Documentation
-For complete user guides, API reference, and tutorials, visit our GitBook documentation:
+For complete user guides visit our WATdocs GitBook documentation:
 
 🔗 [https://watcycle.gitbook.io/watcycle](https://watcycle.gitbook.io/watcycle)
 ## Table of Contents
