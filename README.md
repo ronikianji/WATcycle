@@ -22,15 +22,14 @@ For complete user guides visit our WATdocs GitBook documentation:
 ```bash
 # Install Requirements
 
-# Step 1: Navigate to the main_app folder
-main_app --> main.py
+# Step 1: Navigate to the root directory
 
 # Step 2: Open the terminal in the root directory and run the below command
 pip install -r requirements.txt
 
 # Run the WATcycle
 
-# Step 3: After successful installation of requirements, open main_app folder and run the below command
+# Step 3: After successful installation of requirements, open main_app folder [main_app --> main.py] and run the below command
 streamlit run main.py
 ```
 ## Contributors
