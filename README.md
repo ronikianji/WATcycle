@@ -3,7 +3,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronikianji/WATcycle)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ronikianji/WATcycle/blob/1338c4fb71dde76a90d6fe632918d0dcc35b1b5c/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitBook Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-3884FF)](https://watcycle.gitbook.io/watdocs/))
 
 A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
