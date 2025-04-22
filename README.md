@@ -38,5 +38,5 @@ This toolbox is designed to support hydrological analysis. Contributions are wel
 Your feedback and involvement are highly appreciated, and we thank all those who have contributed or plan to contribute in the future.
 
 ## License
-This project is licensed under the MIT License. You can use, modify, and distribute it as long as you include the original license in your copies. 
+This project is licensed under the **GNU General Public License v3.0**.
 Use this DOI for citation: [DOI: [DOI here]]
