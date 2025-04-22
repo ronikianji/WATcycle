@@ -25,12 +25,12 @@ For complete user guides visit our WATdocs GitBook documentation:
 # Step 1: Navigate to the main_app folder
 main_app --> main.py
 
-# Step 2: Open the terminal in the main_app folder and run the below command
+# Step 2: Open the terminal in the root directory and run the below command
 pip install -r requirements.txt
 
 # Run the WATcycle
 
-# Step 3: After successful installation of requirements, run the below command
+# Step 3: After successful installation of requirements, open main_app folder and run the below command
 streamlit run main.py
 ```
 ## Contributors
