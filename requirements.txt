@@ -14,6 +14,7 @@ python-dateutil
 rasterio
 requests
 ruptures==1.0.6
+ipython
 scipy
 seaborn
 shapely
