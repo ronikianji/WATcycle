@@ -31,7 +31,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 ## Contributors
-This toolbox is designed to support hydrological analysis. Contributions are welcome to improve the toolbox, add new features, or enhance its functionality for the hydrological community. 
+This software is designed to support hydrological analysis. Contributions are welcome to improve the software, add new features, or enhance its functionality for the hydrological community. 
 Your feedback and involvement are highly appreciated, and we thank all those who have contributed or plan to contribute in the future.
 
 ## License
