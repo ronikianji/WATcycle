@@ -18,7 +18,6 @@ def split_netcdf_ui():
 
     - ** Index-based**: Split into chunks of equal size
     - ** Label-based**: Extract a specific range of values
-    - ** Group-by**: Organize data by time periods (daily, monthly, yearly)
     """)
 
     # Check for uploaded NetCDF file in session state
