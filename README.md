@@ -4,8 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitBook Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-3884FF)](https://watcycle.gitbook.io/watdocs/)
 
-A comprehensive toolbox for performing advanced hydrological analysis, including data preprocessing, statistical calculations, and visualizations. 
-This repository contains Jupyter Notebooks organized into folders and subfolders. The development of such a resource is intended to enable users in conducting their hydrological research and extend it to their relevant activities.
+WATcycle is a comprehensive hydrological analysis platform that seamlessly integrates data processing, analysis, and visualization capabilities. Our software simplifies complex water cycle modeling tasks through an intuitive interface, enabling users to effortlessly handle various data formats, perform statistical analyses, and generate insightful visualizations. From downloading and preprocessing data to advanced statistical analysis and spatial plotting, WATcycle provides researchers, hydrologists, and environmental scientists with the essential tools needed for sophisticated water resource analysis.
 
 ## 📚 Documentation
 For the complete user guide, visit our WATdocs GitBook documentation:
