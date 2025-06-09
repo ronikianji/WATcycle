@@ -59,8 +59,8 @@ def upload_shp():
             st.session_state.uploaded_shapefile_name = file_name
         st.session_state.uploaded_shapefile_gdf = shapefile
 
-        st.subheader("📄 Preview of the Shapefile Data")
-        st.dataframe(shapefile.head())
+        st.subheader("📄 Shapefile Data")
+        st.dataframe(shapefile)
 
         # Plot using matplotlib
         fig, ax = plt.subplots(figsize=(8, 6))
