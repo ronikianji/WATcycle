@@ -13,7 +13,8 @@ from utils.file_handler import save_uploaded_file, save_uploaded_shapefile, load
 from utils.merge_netcdf_utils import merge_netcdf_concat, merge_netcdf_merge, smart_merge_netcdf
 
 from features.home import netcdf_standardizer, description
-from features.data_download import gldas_download
+# from features.data_download import gldas_download
+from features.data_download import gldas_download_2
 from features.upload_files import upload_netcdf, upload_shp
 from features.data_transformation import calculator, csv_to_netcdf, clip_nc_with_shp, missing_time_steps, merge_netcdf, split_nc, interpolation, resample_netcdf
 from features.time_series_analysis import trend_analysis, seasonal_analysis, taylor_plot, proportional_redistribution
@@ -48,7 +49,7 @@ def main():
             netcdf_standardizer.netcdf_standardizer_feature()
 
     elif main_section == '⬇️ Data Download':
-        gldas_download.gldas_download_ui()
+        gldas_download_2.gldas_download_ui()
 
     elif main_section == '📤 Upload Files':
         choice = st.sidebar.radio('Choose Format', [
@@ -117,3 +118,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
