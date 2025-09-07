@@ -11,9 +11,15 @@ For the complete user guide, visit our WATdocs GitBook documentation:
 
 🔗 [https://watcycle.gitbook.io/watcycle](https://watcycle.gitbook.io/watdocs/))
 ## Table of Contents
+- [Citation/Reference](#Citation/Reference)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [License](#license)
+
+## Citation/Reference WATcycle
+If you are using this software, please cite the WATcycle:
+
+Anjaneyulu, R., Praveen, K., Jinghua, X., Abhishek, A. (2025). WATcycle: A Software for Terrestrial Water Cycle and Budget Analysis with an Amazon Basin Case Study. Environmental Modelling & Software. https://doi.org/10.1016/j.envsoft.2025.106656
 
 ## Installation
 ```bash
