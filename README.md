@@ -41,4 +41,3 @@ Your feedback and involvement are highly appreciated, and we thank all those who
 
 ## License
 This project is licensed under the **GNU General Public License v3.0**.
-Use this DOI for citation: [DOI: [DOI here]]
